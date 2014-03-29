@@ -1,6 +1,6 @@
-php
+Search Entire DB
 ===
-/*
+
 Search Engine for huge DataBases...
 Using this class is quite easy: just make an object and give these arguments :
 
@@ -52,5 +52,8 @@ Author : Kiyarash Sanjarani Vahed
 E-mail : ksvahed@gmail.com, info@ksvahed.ir, kiarash.3tar@gmail.com
 website: ksvahed.ir
 
+Please feel free to improve and use this class and please let me know if you found bug or problem...
+
+
 Enjoy the life...
-*/
+
