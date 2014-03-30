@@ -24,7 +24,7 @@ There is two propeties for check and use search result,
 first : $obj->_finalResult that's an array contains search result
 
 second : $obj->_reports that contains report about search. The report is associative array that have these indexes:
-	I-->   'emptyDBs' if there was empty database(s)
+	I-->   'emptyDBs' if there was empty table(s)
 	II-->  'result' that's nested array structured like this:
 			 'result' => 
 			  array 
