@@ -23,12 +23,12 @@ There is two propeties for check and use search result,
 
 first : $obj->_finalResult that's an array contains search result
 
-second : $obj->_reports that contains report about search. The report is associative array that have these indexes:
+second : $obj->_reports that contains report about search. The report is associative array that have these indexes:<br>
 	I-->   'emptyDBs' if there was empty table(s)<br><br>
 	II-->  'result' that's nested array structured like this:<br>
-			 'result' => <br>
-			  array <br>
-				 'tableName1' => <br>
+	          		 'result' => <br>
+	         		  array <br>
+	        			 'tableName1' => <br>
 					array (size=1)<br>
 					  'Column Name' => string 'SearchResult'<br>
 				 'tableName2' => <br>
