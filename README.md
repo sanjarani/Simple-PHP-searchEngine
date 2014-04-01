@@ -1,25 +1,25 @@
 Search Entire DB
 ===
 
-Search Engine for huge DataBases...
+Search Engine for huge DataBases...<br>
 Using this class is quite easy: just make an object and give these arguments :
-
+<br><br>
 Arguments:
+<br><br>
+1/DB name<br>
+2/Username<br>
+3/Password<br>
+4/Column Name that you want to search or give it NULL if you want to search all fields<br>
+5/The text that you are looking for ( You can search an integer value but becareful because the search result will be as string.... )<br><br>
 
-1/DB name
-2/Username
-3/Password
-4/Column Name that you want to search or give it NULL if you want to search all fields
-5/The text that you are looking for ( You can search an integer value but becareful because the search result will be as string.... )
+Sample: $obg = new searchEntireDB(DBName, userName, password, columnName, targetText)<br><br>
 
-Sample: $obg = new searchEntireDB(DBName, userName, password, columnName, targetText)
+and then use the result;<br><br>
 
-and then use the result;
+that's it...<br><br>
 
-that's it...
-
-How to use result:
-There is two propeties for check and use search result,
+How to use result:<br>
+There is two propeties for check and use search result,<br><br>
 
 first : $obj->_finalResult that's an array contains search result
 
