@@ -1,6 +1,13 @@
 Search Entire DB
 ===
 
+<h6>`Author :`</h6> <h4>`Kiyarash Sanjarani Vahed`</h4><br>
+<h6>Contact:</h4> <br>
+<h5><code>+98</code> <code> 910 937 5880 </code> </h5> <br>
+<hr>
+E-mail : kiarash.3tar@gmail.com<br>
+website: ksvahed.ir<br>
+
 Search Engine for huge DataBases...<br>
 Using this class is quite easy: just make an object and give these arguments :
 <br><br>
@@ -53,9 +60,7 @@ second : <h5>`$obj->_reports`</h5> that contains report about search. The report
 			☼ notEmpty shows which table(s) is(are) not empty...
 			
 <h6>`If you are not sure that which column have the right value, just give NULL to 4th argument...`</h6>	 <br>
-<h6>`Author :`</h6> <h4>`Kiyarash Sanjarani Vahed`</h4><br>
-E-mail : ksvahed@gmail.com, info@ksvahed.ir, kiarash.3tar@gmail.com<br>
-website: ksvahed.ir<br><br>
+
 
 Please feel free to improve and use this class and please let me know if you found bug or problem...
 
